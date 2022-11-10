@@ -1,0 +1,89 @@
+.body{
+  margin: 0;
+}
+
+.profile_logo{
+  transform: translate(930px,-10px);
+  margin-top: -15px;
+  padding-top: 0px;
+}
+
+.logo_dropdown{
+  transform: translate(970px,-40px);
+}
+
+.clock{
+  font-size: medium;
+  font-weight:500;
+
+  margin-top: 10px;
+}
+
+.side_nav{
+  background-color: #2a3542;
+  border: 2px;
+  text-shadow: 0 1px rgb(0 0 0);
+  width: 18%;
+  
+}
+
+.dashboard_page{
+  margin: 0%;
+  border: 2px solid brown;
+  width:82%; 
+  height: 900px;
+}
+
+.card_div{
+  border: 2px solid greenyellow;
+  display: flex;
+  width: 120%;
+  margin-top: 5px;
+  margin-left: -10px; 
+}
+
+
+.card{
+  border: 2px solid red;
+  height:130px;
+  width:100px;
+  margin-top: 20px;
+  margin-left:0px;
+  display: flex;
+  flex-direction: row;
+ 
+}
+
+.card1_div{
+  background-color: beige;
+  display: flex; 
+  width: 230px;
+  margin-left: 40px;
+}
+
+.card1_detail{
+  border: 2px solid red;
+  height:130px;
+  width:100px;
+  margin-top: 20px;
+  margin-left:20px;
+  display: flex;
+  flex-direction: column;
+  background-color:white; 
+  justify-content: center;
+  align-items: center;
+}
+
+.stock_header{
+  color: #A52A2A;
+  font-weight: bold;
+  background-color: #F5F5DC;
+  text-align: center;
+  width: 295px;
+}
+
+.card-text{
+  text-align: center;
+  align-items:
+  
+}
